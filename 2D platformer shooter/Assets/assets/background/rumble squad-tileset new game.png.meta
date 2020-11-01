@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 1e54d2bbf7f1589469312a64e85facad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5308468702071675240
+    second: rumble squad-tileset new game_0
+  - first:
+      213: 5285507567750926148
+    second: rumble squad-tileset new game_1
+  - first:
+      213: -6104633874760546099
+    second: rumble squad-tileset new game_2
+  - first:
+      213: -5759513252104358487
+    second: rumble squad-tileset new game_3
+  - first:
+      213: 552887500493341287
+    second: rumble squad-tileset new game_4
+  - first:
+      213: 6965287897536501288
+    second: rumble squad-tileset new game_5
+  - first:
+      213: -2657109550720590733
+    second: rumble squad-tileset new game_6
+  - first:
+      213: 1390523597408396075
+    second: rumble squad-tileset new game_7
+  - first:
+      213: 94523838429821438
+    second: rumble squad-tileset new game_8
+  - first:
+      213: -8006782357512248891
+    second: rumble squad-tileset new game_9
+  - first:
+      213: -6137147952077289109
+    second: background
+  - first:
+      213: 6858342436165785427
+    second: rumble squad-tileset new game_11
+  - first:
+      213: -7757095706334172224
+    second: rumble squad-tileset new game_12
+  - first:
+      213: 9080088037721648927
+    second: rumble squad-tileset new game_13
+  - first:
+      213: 495813139689402174
+    second: rumble squad-tileset new game_14
+  - first:
+      213: 3746242152431337176
+    second: rumble squad-tileset new game_15
+  - first:
+      213: -6743709627595296668
+    second: rumble squad-tileset new game_16
+  - first:
+      213: -7476835694218942294
+    second: rumble squad-tileset new game_17
+  - first:
+      213: 6763398351365380499
+    second: rumble squad-tileset new game_18
+  - first:
+      213: 2603196742998233245
+    second: rumble squad-tileset new game_19
+  - first:
+      213: 1464320183489670481
+    second: rumble squad-tileset new game_20
+  - first:
+      213: 5443963441020909919
+    second: rumble squad-tileset new game_21
+  - first:
+      213: 8688489005017790868
+    second: rumble squad-tileset new game_22
+  - first:
+      213: -702520297519016594
+    second: rumble squad-tileset new game_23
+  - first:
+      213: 1861148887048069622
+    second: rumble squad-tileset new game_24
+  - first:
+      213: -7846152934518245541
+    second: rumble squad-tileset new game_25
+  - first:
+      213: -2990900827829941834
+    second: rumble squad-tileset new game_26
+  - first:
+      213: -5236779109803595864
+    second: rumble squad-tileset new game_27
+  - first:
+      213: 5968459843718684563
+    second: rumble squad-tileset new game_28
+  - first:
+      213: 7032243606584391281
+    second: rumble squad-tileset new game_29
+  - first:
+      213: -1017060596763609154
+    second: rumble squad-tileset new game_30
+  - first:
+      213: 8352966448854151756
+    second: rumble squad-tileset new game_31
+  - first:
+      213: -1293884550615186266
+    second: rumble squad-tileset new game_32
+  - first:
+      213: 4318969856293095716
+    second: rumble squad-tileset new game_33
+  - first:
+      213: -8164623199124015162
+    second: rumble squad-tileset new game_34
+  - first:
+      213: 7949995985280761494
+    second: rumble squad-tileset new game_0
+  - first:
+      213: 9010694269699878247
+    second: rumble squad-tileset new game_1
+  - first:
+      213: 2958216668006835775
+    second: rumble squad-tileset new game_2
+  - first:
+      213: 4637332858925618435
+    second: rumble squad-tileset new game_5
+  - first:
+      213: 8400027081677504416
+    second: rumble squad-tileset new game_6
+  - first:
+      213: 2447135762507225368
+    second: rumble squad-tileset new game_7
+  - first:
+      213: 4943498991697671603
+    second: rumble squad-tileset new game_8
+  - first:
+      213: 5400755174411473
+    second: rumble squad-tileset new game_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ef07c4a3f045e60800000000000000
+      internalID: 7949995985280761494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76deb1592ba6c0d70800000000000000
+      internalID: 9010694269699878247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ef21e262bd0920800000000000000
+      internalID: 2958216668006835775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30512816aad1b5040800000000000000
+      internalID: 4637332858925618435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af7c032024e29470800000000000000
+      internalID: 8400027081677504416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d561b209f5f120800000000000000
+      internalID: 2447135762507225368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b534a32426da9440800000000000000
+      internalID: 4943498991697671603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc80bd45ff231000800000000000000
+      internalID: 5400755174411473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35716afcb1abd2f50800000000000000
+      internalID: 6858342436165785427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb6e3fcd82495490800000000000000
+      internalID: -7757095706334172224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f2ca146f3f20e70800000000000000
+      internalID: 9080088037721648927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f68227c6b71e600800000000000000
+      internalID: 495813139689402174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deb342a3635df330800000000000000
+      internalID: 3746242152431337176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460fccac2d78962a0800000000000000
+      internalID: -6743709627595296668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86e12dc81fc3890800000000000000
+      internalID: -7476835694218942294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399989f67fa6cdd50800000000000000
+      internalID: 6763398351365380499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d901dda35a9602420800000000000000
+      internalID: 2603196742998233245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumble squad-tileset new game_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2656d27f425410800000000000000
+      internalID: 1464320183489670481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
