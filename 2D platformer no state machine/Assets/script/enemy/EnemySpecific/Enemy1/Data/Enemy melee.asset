@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28e418cfd930d0747b16d84e01572d9d, type: 3}
+  m_Name: Enemy melee
+  m_EditorClassIdentifier: 
+  maxHealth: 5
+  damageHopSpeed: 3
+  wallCheckDistance: 0.27
+  ledgeCheckDistance: 0.31
+  groundCheckRadius: 1.43
+  minAgroDistance: 1.57
+  maxAgroDistance: 2.62
+  stunResistance: 3
+  stunRecoveryTime: 2
+  closeRangeActionDistance: 0.47
+  hitParticle: {fileID: 7639152753173857632, guid: 6443edde410b5d64dbe46c76cfa42977,
+    type: 3}
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 256
+  whatIsPlayer:
+    serializedVersion: 2
+    m_Bits: 2048
+  knockbackDeathSpeed: {x: 1, y: 1}
+  deathTorque: 1
